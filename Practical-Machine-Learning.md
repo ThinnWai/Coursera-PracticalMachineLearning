@@ -1,6 +1,6 @@
 ---
 title: Practical Machine Learning Project Report
-author: "by Hongzheng Wang"
+author: "by Mustafa Ozturk"
 output:
   html_document:
     fig_height: 9
